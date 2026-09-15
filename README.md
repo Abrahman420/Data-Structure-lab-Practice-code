@@ -12,7 +12,7 @@ Purpose: Academic learning and practical implementation of Data Structure concep
 **Basic Programs**
 - Experiment 01 – Prime Number & Fibonacci
 - Experiment 02 – Tower of Hanoi
-- 
+  
 **#Sorting Algorithms****
 - Experiment 03 – Bubble Sort (Fixed Input)
 - Experiment 04 – Bubble Sort (User Input)
@@ -55,9 +55,9 @@ Through these experiments, I am learning how to:
 - Understand graph traversal using BFS and DFS
 - Improve problem-solving and algorithmic thinking
 
-**//Programming Language**
+**Programming Language**
 The programs in this repository are primarily implemented in:
 **C++**
 
-**\\Note**
+**Note**
 These programs are maintained for academic learning, laboratory practice, and future reference.
