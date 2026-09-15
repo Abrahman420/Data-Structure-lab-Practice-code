@@ -1,12 +1,12 @@
-# Data Structure Lab – Programming Experiments
+\\Data Structure Lab – Programming Experiments
 This repository contains my Data Structure Lab programming experiments completed as part of my academic coursework.
 
-#Course Information
+//Course Information
 Course: Data Structure Lab.
 Program: B.Sc. in Computer Science & Engineering (CSE).
 Purpose: Academic learning and practical implementation of Data Structure concepts.
 
-#Experiments
+\\Experiments
 
 #Basic Programs
 - Experiment 01 – Prime Number & Fibonacci
@@ -54,9 +54,9 @@ Through these experiments, I am learning how to:
 - Understand graph traversal using BFS and DFS
 - Improve problem-solving and algorithmic thinking
 
-#Programming Language
+//Programming Language
 The programs in this repository are primarily implemented in:
 C++
 
-#Note
+\\Note
 These programs are maintained for academic learning, laboratory practice, and future reference.
