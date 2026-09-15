@@ -13,7 +13,7 @@ Purpose: Academic learning and practical implementation of Data Structure concep
 - Experiment 01 – Prime Number & Fibonacci
 - Experiment 02 – Tower of Hanoi
   
-**#Sorting Algorithms****
+**Sorting Algorithms****
 - Experiment 03 – Bubble Sort (Fixed Input)
 - Experiment 04 – Bubble Sort (User Input)
 - Experiment 05 – Selection Sort
