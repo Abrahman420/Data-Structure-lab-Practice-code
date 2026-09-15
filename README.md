@@ -1,4 +1,4 @@
-\\Data Structure Lab – Programming Experiments
+**Data Structure Lab – Programming Experiments**
 This repository contains my Data Structure Lab programming experiments completed as part of my academic coursework.
 
 //Course Information
